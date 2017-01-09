@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+	<meta charset='utf-8' />
+	<title>贪吃蛇小作战</title>
+	<meta name='viewport' content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no'
+	/>
+
+</head>
+
+<body style="background-color:#222">
+<style>
+	.introduce{
+		color: #fff;
+		text-align: center;
+		line-height: 1.5em;
+		margin: 10px auto;
+	}
+	a{
+		color:#fff;
+	}
+	iframe{
+		width: 700px;
+		height: 400px;
+		margin: 0 auto;
+		display: block;
+	}
+</style>
+	<div class="introduce">
+		A snake game played on mobile phone or pc, use the "Space" key to speed up the snake which you controlled.
+		<br>
+		If you need the demo with Android apk file, please visit my <a href="https://github.com/lanbomo/laya-snakes">github</a> to get.
+		<br>
+		Develop base on layabox by TypeScript, code on <a href="https://github.com/lanbomo/laya-snakes">github</a>
+		<br>
+		贪吃蛇小作战，pc端使用空格键加速，如需Android端apk示例文件，请访问我的<a href="https://github.com/lanbomo/laya-snakes">github</a>获取。
+		<br>
+		基于layabox开发，项目地址<a href="https://github.com/lanbomo/laya-snakes">点这里</a>
+		<br>
+		Made by lanbomo
+	</div>
+	<iframe src="index.html" frameborder="0" id="iframe"></iframe>
+	
+<script>
+	window.onload = function(){
+		document.getElementById("iframe").focus()
+		document.getElementById("iframe").onblur = function(){
+			document.getElementById("iframe").focus()
+		}
+	}
+</script>
+</body>
+
+</html>

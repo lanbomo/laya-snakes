@@ -1,0 +1,1 @@
+!function(n,t,c){c.un,c.uns,c["static"],c["class"],c.getset,c.__newvec}(window,document,Laya);
