@@ -7,7 +7,7 @@ layabox性能还不错，示例在手机上通过运行器或打包之后，基�
 
 ## introduce
 
-![laya-snakes demo](http://github.com/lanbomo/laya-snakes/raw/master/release/layaweb/1.0.0/snake.gif)
+![laya-snakes demo](https://raw.githubusercontent.com/lanbomo/laya-snakes/master/release/layaweb/1.0.0/snake.gif)
 
 A snake game played on mobile phone or pc, use the "Space" key to speed up the snake which you controlled.
 
