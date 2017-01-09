@@ -11,7 +11,7 @@ layabox性能还不错，示例在手机上通过运行器或打包之后，基�
 
 A snake game played on mobile phone or pc, use the "Space" key to speed up the snake which you controlled.
 
-the demo online click [here](https://lanbomo.github.io/laya-snakes/index-pc.html)
+the demo online click [here](https://lanbomo.github.io/laya-snakes/gh-pages/index-pc.html)
 
 If you need the Android apk file, please download [here](https://github.com/lanbomo/laya-snakes/releases)
 
@@ -19,7 +19,7 @@ Develop base on layabox by TypeScript
 
 ---
 
-贪吃蛇小作战，pc端使用空格键加速，在线演示请点击[这里](https://lanbomo.github.io/laya-snakes/index-pc.html)
+贪吃蛇小作战，pc端使用空格键加速，在线演示请点击[这里](https://lanbomo.github.io/laya-snakes/gh-pages/index-pc.html)
 
 如需Android端apk示例文件，请点[这里](https://github.com/lanbomo/laya-snakes/releases)。
 
